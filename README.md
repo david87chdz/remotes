@@ -111,8 +111,8 @@ The following companies offer remote jobs and hire in Spain:
 * Alhona (All offers are remote) [Open positions](https://www.linkedin.com/company/alhona-smart-industry/jobs/)
 * Ankorstore [Open positions](https://jobs.ashbyhq.com/ankorstore?locationId=394728f2-fded-4516-b066-49483d36d0da)
 * Apiumhub [Open positions](https://careers.apiumhub.com/jobs) ✅
-* APIUX [Open positions](https://www.linkedin.com/company/api-ux/jobs/)
-* Aplanet [Open positions](https://aplanet.org/careers/)
+* APIUX [Open positions](https://www.linkedin.com/company/api-ux/jobs/) (Linkedln)
+* Aplanet [Open positions](https://aplanet.org/careers/) ✅
 * Aplazame (All offers are remote) [Open positions](https://www.linkedin.com/company/aplazame/jobs/)
 * Appwrite [Open positions](https://appwrite.io/company/careers) 
 * Aratech [Open positions](https://aratech.viterbit.site/#jobs-OUTc)
